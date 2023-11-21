@@ -4,7 +4,7 @@ Repo for the the course Digital Humanities Tools and methods
 --- 
 1. Topic:
 
-I would like to analyse the language of populist rhetoric. In relevant theoretical literature, populist rhetoric is characterized as appealing more to "people" and using simpler languages because of this. Aalberg et al. (2016) describe the populism as a 'thin' ideology that can take many forms depenings on socio-cultural context. They characterize populism as something that appears in "the oral, written, and visual communication of individual politicians, parties, social movements"(Aalberg et al., 2016). I want to investigate this claim further with a textual analysis of speeches by populist politicians.
+I would like to analyse the language of populist rhetoric. In relevant theoretical literature, populist rhetoric is characterized as appealing more to "people" and using simpler languages because of this. Aalberg et al. (2016) describe the populism as a 'thin' ideology that can take many forms depenings on socio-cultural context. They characterize populism as something that appears in "the oral, written, and visual communication of individual politicians, parties, social movements"(Aalberg et al., 2016). However, they reject the idea that populist language may be more simplistic and instead, highlight the language usage of being representative of the 'we' - the people - against the 'elites'. I want to investigate this claim further with a textual analysis of speeches by populist politicians.
 
 ---
 2. Context:
@@ -20,13 +20,23 @@ Mudde, C., & Kaltwasser, C. R. (2017). Populism: A very short introduction. In O
 
 ---
 3. Research questions/ hypothesis (min one):
+
+What kind of rhetoric can we uniquely identify via texutal analysis of  populist language that is in accordance with existent theory?
+
 ---
 4. How can you approach/explore this research question?
+
+Analyse multiple aspects of populist speech, such as sentiment analysis, comparative analysis against non-populist speeches (sentence length, uniqueness of tokens), identification of the representative 'we' against the non-representative 'elite' theme.
+
 ---
 5. What type of data is needed?
+
+Speeches of populist and non-populist politicians. What kind of context of speech could still be determined. 
+
 ---
 6. Tools and methods that could be used
 
 - distant reading
+- Visualisation of textual analysis of populist speeches against non-populist speeches
 - sentiment analysis
 - potentially topic modelling
